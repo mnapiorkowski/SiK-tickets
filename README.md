@@ -1,4 +1,4 @@
-# SiK-tickets
+# SiK - tickets server
 
 Computer Networks - 4. semester @ MIMUW
 
